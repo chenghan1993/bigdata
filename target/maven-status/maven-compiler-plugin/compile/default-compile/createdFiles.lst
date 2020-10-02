@@ -1,0 +1,4 @@
+mapreduce\awordcount\WordCountMapper.class
+mapreduce\awordcount\WordCountReducer.class
+mapreduce\awordcount\WordCountApp.class
+utils\PropUtils.class
